@@ -12,8 +12,7 @@ Nevertheless, God has a plan for my life. All I have to do is show up.
 The Road goes ever on and on, down from the door where it began. Now far ahead the Road has gone, and I must follow, if I can.
 Ad maiorem Dei gloriam. Ora et labora. Nascantur in admiratione.
 
-<!--
-
+- 🌳 I'm currently working for the Parks, Recreation, and Forestry Department of the City of Harrisburg, S.D. as a Recreation and Programming Specialist.
 - 🔭 I’m currently working on finishing Sprint 4 from TripleTen.
 - 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate on nothing at the moment other than striving for sainthood.
@@ -22,4 +21,4 @@ Ad maiorem Dei gloriam. Ora et labora. Nascantur in admiratione.
 - 📫 How to reach me: (906) 322-8501 ; marcpc@att.net
 - 😄 Titles: Husband, Dad, Son, Soldier of Christ, Knight of Mary. I go by many other "titles" at work, all of which I dare not type.
 - ⚡ Fun fact: I'm a Yooper, eh. I like to read, write, study languages, hike in the woods, swim, spend time with my wife and kids, frequent the Sacraments, learn everything I can, &c.
--->
+
