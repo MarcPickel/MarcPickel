@@ -1,4 +1,4 @@
-## Hey, how's it goin'? I'm Marc Pickelman, a born and raised Yooper, livin' in South Dakota, and learnin' how to code. 💻
+## Hey, how's it goin'? I'm Marc Pickelman, a born and raised Yooper, livin' in South Dakota and learnin' how to code. 💻
 
 Now, I know what you're thinking...
 What is a hobbit? I suppose hobbits need some description nowadays, since they have become rare and shy of the Big People, as they call us.
