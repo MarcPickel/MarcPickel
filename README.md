@@ -8,13 +8,11 @@ I've attended a leadership course, called, The Growth Coach, was a member of Bus
 
 I am also married to a beautiful South Dakotan woman. We have three small and wonderful children all under the age of 4. I have a Bachelor's in English Literature. I'm an avid reader. I love Tolkien, Shakespeare, Chaucer, Henry Wadsworth Longfellow, Howard Pyle, Robert Frost, etc. etc., and all the Anonymous Authors and Poets of yore.
 
-- 🌳 I'm currently working for the Parks, Recreation, and Forestry Department of the City of Harrisburg, S.D. as a Recreation and Programming Specialist.
-- 🔭 I’m currently working on finishing Sprint 4 from TripleTen.
+- 🌳 I'm currently working for the Parks, Recreation, and Forestry Department of the City of Harrisburg, S.D.
+- 🔭 I’m currently working on finishing Sprint 5 from TripleTen.
 - 🌱 I’m currently learning JavaScript.
-- 👯 I’m looking to collaborate on nothing at the moment other than striving for sainthood.
+- 👯 I’m looking to collaborate on nothing at the moment.
 - 🤔 I’m looking for help with learning to code and re-entering the Software Engineering and Digital Marketing workforce.
 - 💬 Ask me about the weather, life, work, philosophy, church, Tolkien, the Midwest, pasties and poutine.
 - 📫 How to reach me: (906) 322-8501 ; marcpc@att.net
-- 😄 Titles: Husband, Dad, Son, Soldier of Christ, Knight of Mary. I go by many other "titles" at work, all of which I dare not type.
-- ⚡ Fun fact: I'm a Yooper, eh. I like to read, write, study languages, hike in the woods, swim, spend time with my wife and kids, frequent the Sacraments, learn everything I can, &c.
-
+- ⚡ Pastimes: I like to read, write, study languages, study nature, hike in the woods, swim, ride and drive boats, spend time with my wife and kids, pray, go to Mass and frequent the Sacraments.
