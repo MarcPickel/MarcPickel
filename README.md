@@ -10,7 +10,7 @@ I am also married to a beautiful South Dakota woman. We have three small and won
 
 - 🌳 I'm currently working for the Parks, Recreation, and Forestry Department of the City of Harrisburg, S.D.
 - 🔭 I’m currently working on finishing Sprint 5 from TripleTen.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Back-End Engineering.
 - 👯 I’m looking to collaborate on nothing at the moment.
 - 🤔 I’m looking for help with learning to code and re-entering the Software Engineering and Digital Marketing workforce.
 - 💬 Ask me about the weather, life, work, philosophy, church, Tolkien, the Midwest, pasties and poutine.
