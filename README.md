@@ -1,4 +1,6 @@
-## A Software Engineer-in-training of the Midwest. 💻 How's it goin', eh?
+## A Midwest Full-Stack Developer-in-training. 💻
+
+How's it going?
 
 After branching off from Search Engine Optimization (SEO) back in 2022, the digital world has called me back. As of November of 2024, I have enrolled in and am undergoing a Software Engineering Bootcamp offered by TripleTen. 
 
