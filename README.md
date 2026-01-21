@@ -3,7 +3,7 @@
 💻 **A Midwest Full-Stack Software Engineer and "Solutionizer" (_It's a word_).** 💻
 <img width="200" height="300" alt="Pickelman" src="https://github.com/user-attachments/assets/7b587744-d145-4d64-bc42-082a383e3913" align="right"/>
 
-I'm interested in providing real solutions for real, hard working people. 🛠️ I grew up in an entrepreneurial family and worked alongside blue-collar men and women every day who poured out their heart and soul through blood, sweat, and tears to bring home that hard-earned paycheck for their families. I've worked in Search Engine Optimization 🌟 and as an Apprentice Electrician ⚡, Mower 🌱, Park Technician 🌳, etc.
+I'm interested in providing real solutions for real, hard-working people. 🛠️ I grew up in an entrepreneurial family and worked alongside blue-collar men and women every day who poured out their heart and soul through blood, sweat, and tears to bring home that hard-earned paycheck for their families. I've worked in Search Engine Optimization 🌟 and as an Apprentice Electrician ⚡, Mower 🌱, Park Technician 🌳, etc.
 
 Natural languages have always fascinated me. Naturally, computer languages were next in my linguistic fascination. Now, I'm honing them to provide the best service possible for the best people.
 
