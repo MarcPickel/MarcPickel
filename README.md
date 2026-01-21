@@ -13,8 +13,7 @@ Natural languages have always fascinated me. Naturally, computer languages were 
   - 🌳 I'm currently working for Parks, Recreation, and Forestry in Harrisburg, S.D.
 - Learning
   - 🎉 I graduated from @TripleTen's Software Engineer Bootcamp (January, 2026)
-  - 🤔 I’m looking for help honing my skills and learning best practices for HTML5, CSS3, JavaScript, and React
-  - ✒️ I'm open to learning Python, MySQL, PHP, other languages, tools, technologies, databases, and cloud services
+  - ✒️ I'm open to learning Python, MySQL, PHP, along with other languages, tools, technologies, databases, and cloud services (and I plan to)
 -Contact me
   - 📫 How to reach me: (906) 322-8501 ; marcpc@att.net
 - Interests
@@ -26,5 +25,7 @@ Natural languages have always fascinated me. Naturally, computer languages were 
 <a href="www.linkedin.com/in/marc-pickelman" target="_blank"><img width="40" height="40" alt="Marc Pickelman's Profile" src="https://github.com/user-attachments/assets/f7409a27-7430-4dcc-8124-5c73b5ac00f3"/></a>
 
 ### Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,github,bash,babel,jest,mongodb,npm,nodejs,postman,nginx,gcp,vscode,figma&perline=10)](https://skillicons.dev)
 
 
