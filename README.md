@@ -1,4 +1,4 @@
-![html5-original-wordmark](https://github.com/user-attachments/assets/44bd78cd-d38b-4698-89bf-206bdf52d77e)# How's it going? 👋 I'm Marc Pickelman
+# How's it going? 👋 I'm Marc Pickelman
 
 💻 **A Midwest Full-Stack Software Engineer and "Solutionizer" (_It's a word_).** 💻
 <img width="200" height="300" alt="Pickelman" src="https://github.com/user-attachments/assets/7b587744-d145-4d64-bc42-082a383e3913" align="right"/>
