@@ -22,7 +22,7 @@ Natural languages have always fascinated me. Naturally, computer languages were 
   - ⚡ Pastimes: Reading, writing, studying languages, prayer
 
 ### Connect with me:
-<a href="www.linkedin.com/in/marc-pickelman" target="_blank"><img width="40" height="40" alt="Marc Pickelman's Profile" src="https://github.com/user-attachments/assets/f7409a27-7430-4dcc-8124-5c73b5ac00f3"/></a>
+<a href="https://www.linkedin.com/in/marc-pickelman" target="_blank"><img width="40" height="40" alt="Marc Pickelman's Profile" src="https://github.com/user-attachments/assets/f7409a27-7430-4dcc-8124-5c73b5ac00f3"/></a>
 
 ### Languages and Tools:
 
