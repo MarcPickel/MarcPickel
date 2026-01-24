@@ -14,7 +14,7 @@ Natural languages have always fascinated me. Naturally, computer languages were 
 - Learning
   - 🎉 I graduated from @TripleTen's Software Engineer Bootcamp (January, 2026)
   - ✒️ I'm open to learning Python, SQL, PHP, along with other languages, tools, technologies, databases, and cloud services (and I plan to)
--Contact me
+- Contact me
   - 📫 How to reach me: (906) 322-8501 ; marcpc@att.net
 - Interests
   - ⛪️ I'm a staunch Roman Catholic and convert from Lutheranism
