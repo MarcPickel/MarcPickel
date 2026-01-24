@@ -26,6 +26,6 @@ Natural languages have always fascinated me. Naturally, computer languages were 
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,github,bash,babel,jest,mongodb,npm,nodejs,postman,nginx,gcp,vscode,figma&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,github,git,bash,babel,jest,mongodb,npm,nodejs,postman,nginx,gcp,vscode,figma&perline=10)](https://skillicons.dev)
 
 
