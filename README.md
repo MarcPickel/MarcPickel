@@ -28,4 +28,10 @@ Natural languages have always fascinated me. Naturally, computer languages were 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,github,git,bash,babel,jest,mongodb,npm,nodejs,postman,nginx,gcp,vscode,figma&perline=10)](https://skillicons.dev)
 
+### Projects
 
+<a href="https://github.com/MarcPickel/se_project_spots.git">MSFR Web App</a>
+<a href="https://github.com/MarcPickel/simple_psalter_app.git">Simple Psalter App</a>
+<a href="https://github.com/MarcPickel/se_project_react.git">WTWR Web App: Frontend</a>
+<a href="https://github.com/MarcPickel/se_project_express.git">WTWR Web App: Backend</a>
+<a href="https://github.com/MarcPickel/se_project_spots.git">Spots Web App</a>
