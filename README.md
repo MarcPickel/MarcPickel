@@ -5,7 +5,7 @@
 
 I'm interested in providing real solutions for hard-working people. 🛠️ I grew up in an entrepreneurial family and worked alongside blue-collar men and women every day who poured out their heart and soul through blood, sweat, and tears to bring home that hard-earned paycheck for their families. I've worked in Search Engine Optimization 🌟 and as an Apprentice Electrician ⚡, Mower 🌱, Park Technician 🌳, etc.
 
-Natural languages have always fascinated me. Naturally, computer languages were next in my linguistic fascination. Now, I'm honing them to provide the best service possible for the best people.
+Natural languages have always fascinated me. Naturally, computer languages were next in my linguistic fascination. Now, I'm honing them to provide the best service possible and constantly learning to achieve excellence ad Maiorem Dei Gloriam.
 
 - Work
   - 🔭 I'm currently looking for work as a Full-Stack Developer
@@ -13,7 +13,7 @@ Natural languages have always fascinated me. Naturally, computer languages were 
   - 🌳 I'm currently working for Parks, Recreation, and Forestry in Harrisburg, S.D.
 - Learning
   - 🎉 I will graduate from TripleTen's Software Engineer Bootcamp (February, 2026)
-  - 📖 I'm currently learning TypeScript, and TailWindCSS
+  - 📖 I'm currently learning TypeScript, and TailwindCSS
   - ✒️ I'm open to learning Python, SQL, PHP, along with other languages, tools, technologies, databases, and cloud services (and I plan to)
 - Contact me
   - 📞 (906) 322-8501 ; 📫 marcpc@att.net
