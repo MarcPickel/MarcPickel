@@ -1,11 +1,13 @@
-# How's it going? 👋 I'm Marc Pickelman
+# How's it going? 👋 I'm Marc Pickelman, a Full-Stack Developer
 
-💻 **A Midwest Full-Stack Software Engineer and "Solutionizer" (_It's a word_).** 💻
-<img width="200" height="300" alt="Pickelman" src="https://github.com/user-attachments/assets/7b587744-d145-4d64-bc42-082a383e3913" align="right"/>
+✒️ **I write code from cover to cover** 📕
+<img align="right" width="200" alt="cover to cover" src="https://github.com/user-attachments/assets/9a2f00c4-8be9-4fcf-aa2b-e87bab12d01c" />
 
-I'm interested in providing real solutions for hard-working people. 🛠️ I grew up in an entrepreneurial family and worked alongside blue-collar men and women every day who poured out their heart and soul through blood, sweat, and tears to bring home that hard-earned paycheck for their families. I've worked in Search Engine Optimization 🌟 and as an Apprentice Electrician ⚡, Mower 🌱, Park Technician 🌳, etc.
+I am a Full-Stack Software Engineer enamored with words and how they forge and fill digital spaces.
 
-Natural languages have always fascinated me. Naturally, computer languages were next in my linguistic fascination. Now, I'm honing them to provide the best service possible and constantly learning to achieve excellence ad Maiorem Dei Gloriam.
+I work with HTML/CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, npm, Postman, and more (see the others below).
+
+I never stop learning. I love learning how things work and how they promote the good, true, and beautiful, ensuring that everything I make online is practical and aesthetically pleasing.
 
 - Work
   - 🔭 I'm currently looking for work as a Full-Stack Developer
