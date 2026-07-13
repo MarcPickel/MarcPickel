@@ -15,7 +15,7 @@ I never stop learning. I love learning how things work and how they promote the 
   - 🌳 I'm currently working for Parks, Recreation, and Forestry in Harrisburg, S.D.
 - Learning
   - 🎉 I graduated from TripleTen's Software Engineer Bootcamp (February, 2026)
-  - 📖 I'm currently learning TypeScript, and TailwindCSS
+  - 📖 I'm currently learning TypeScript and TailwindCSS, and working to perfect my skills
   - ✒️ I'm open to learning Vue.js, Angular.js, Next.js, as well as Python, SQL, PHP, along with other languages, tools, technologies, frameworks, databases, and cloud services (and I plan to)
 - Contact me
   - 📞 (906) 322-8501 ; 📫 marcpc@att.net
